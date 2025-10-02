@@ -1,0 +1,14 @@
+react-tailwind/
+ ├── public/
+ │   ├── index.html
+ │   └── favicon.ico
+ ├── src/
+ │   ├── App.js
+ │   ├── index.js
+ │   └── index.css
+ ├── .eslintrc.json
+ ├── .prettierrc
+ ├── package.json
+ ├── postcss.config.js
+ ├── tailwind.config.js
+ ├── README.md
